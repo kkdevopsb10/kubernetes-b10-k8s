@@ -1,0 +1,1 @@
+https://kkdevops.hashnode.dev/scaling-to-a-3-tier-architecture-on-aws-with-nginx-react-node-js-mongodb
